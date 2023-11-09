@@ -1,0 +1,15 @@
+def version: 1.0.0
+def title: Welcome to ezSite
+def theme: light
+{
+    header: Welcome to ezSite %version%!
+    paragraph: This is a paragraph
+    img: https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png | This is an images description
+    link: https://example.com | This is a link
+    list:
+    [
+        - item 1
+        - item 2
+        - item 3
+    ]
+}
