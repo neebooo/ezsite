@@ -1,4 +1,4 @@
-# EzSite - A personal project just for fun
+# EzSite - Make simple websites using simple code
 ## "Trigger warning": The code is bad and its not optimal by any means. And the code is not for production use. (I doubt anyone would even think to use it in production tho)
 ### Features
     - Paragraphs
